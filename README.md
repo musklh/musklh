@@ -18,12 +18,16 @@
 
 ## 📊 我的 GitHub 数据
 
-![musklh's GitHub stats](https://github-readme-stats.vercel.app/api?username=musklh&show_icons=true&theme=radical)
+![musklh's GitHub stats](https://github-readme-stats.vercel.app/api?username=musklh&show_icons=true&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musklh&layout=compact&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musklh&layout=compact&theme=default)
 
 ---
 
+### 🐍 贪吃蛇吃提交图
+
+![贪吃蛇](https://github.com/musklh/musklh/blob/output/github-contribution-grid-snake.svg)
 
 ## 📫 联系我
 
