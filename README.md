@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋，我是 musklh</h1>
+<h1 align="center">Hi 👋，I am musklh</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;I+love+coding+and+sharing+ideas.">
@@ -6,7 +6,7 @@
 
 ---
 
-## 🧰 技术栈
+## 🧰  technology stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=fff)
@@ -16,7 +16,7 @@
 
 ---
 
-## 📊 我的 GitHub 数据
+## 📊 My GitHub Data
 
 ![musklh's GitHub stats](https://github-readme-stats.vercel.app/api?username=musklh&show_icons=true&theme=default)
 
@@ -25,14 +25,14 @@
 
 ---
 
-### 🐍 贪吃蛇吃提交图
+### 🐍 
 
 ![贪吃蛇](https://github.com/musklh/musklh/blob/output/github-contribution-grid-snake.svg)
 
 
-## 📫 联系我
+## 📫 
 
-- 📧 邮箱：musklh@example.com  
+- 📧 email：2544181314@qq.com  
 - 🖥️ 博客/主页：Coming Soon...
 - 🧭 兴趣：编程、AI、前端艺术、视觉设计
 
