@@ -25,9 +25,10 @@
 
 ---
 
-### 🐍 
+### 🐍 Greedy Snake Eat Submission Chart
 
-![贪吃蛇](https://github.com/musklh/musklh/blob/output/github-contribution-grid-snake.svg)
+![贪吃蛇](https://raw.githubusercontent.com/musklh/musklh/output/github-contribution-grid-snake.svg)
+
 
 
 ## 📫 
